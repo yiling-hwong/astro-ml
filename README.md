@@ -14,6 +14,6 @@ The /classifiers folder contains the three classifiers developed for this projec
 The findings of this project are published in the Computers in Human Behavior Journal.
 
 Citation:
-Hwong, Y. L., Oliver, C., Van Kranendonk, M., Sammut, C., & Seroussi, Y. (2017). What makes you tick? The psychology of social media engagement in space science communication. Computers in Human Behavior, 68, 480-492.
+> Hwong, Y. L., Oliver, C., Van Kranendonk, M., Sammut, C., & Seroussi, Y. (2017). What makes you tick? The psychology of social media engagement in space science communication. Computers in Human Behavior, 68, 480-492.
 
 Paper can be downloaded [here](http://yiling-hwong.com/wp-content/uploads/2017/01/what-makes-you-tick_FINAL.pdf)
