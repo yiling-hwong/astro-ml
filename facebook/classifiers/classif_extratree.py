@@ -620,7 +620,6 @@ def get_data_set():
     return X,y,column_names
 
 
-
 if __name__ == '__main__':
 
     X = get_data_set()[0]
